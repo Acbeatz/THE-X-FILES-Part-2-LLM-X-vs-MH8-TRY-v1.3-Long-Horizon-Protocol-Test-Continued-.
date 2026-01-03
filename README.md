@@ -236,6 +236,13 @@ Verify the hashes.
 Read the raw leaves.
 That’s the whole point.
 
+PASS ✅
+Brand: MH8-Acbeatz.com
+Claimed sha256_hex: 0d6ccafb7f9816f1053a237e29c4c552f6cc6020f6af459dff7bfa53e8cb2969
+Computed sha256_hex: 0d6ccafb7f9816f1053a237e29c4c552f6cc6020f6af459dff7bfa53e8cb2969
+hash_input_bytes: 59564 | LF=0 CRLF=0 CR=0 | endsWithNewline=NO
+hash_input first: MH8-Acbeatz.com|{"artifact":{"archetype":"THREAD LINK > https://x.com/i/grok/sha
+hash_input last: eceipt_type":"MH8-GRAFFITI-ARCHETYPE-MINT","receipt_version":"GRAFFITI_UI_V7.4"}
 
 {X THREAD OPEN CHAT LONG HORIZON MH8 TRY V1.3 PROTOCOL LLM FULL TEST RAW LEAFS SEALED SHA256}
 
